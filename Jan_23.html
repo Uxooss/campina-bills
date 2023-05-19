@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <!-- Fonts connected -->
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap"
+      rel="stylesheet"
+    />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Courier+Prime:wght@400;700&family=Montserrat:wght@400;700&display=swap"
+      rel="stylesheet"
+    />
+
+    <link
+      href="https://fonts.googleapis.com/css2?family=Poiret+One&display=swap"
+      rel="stylesheet"
+    />
+
+    <!-- Styles connected -->
+    <link rel="stylesheet" href="./css/styles.css" />
+
+    <title>January 2023</title>
+  </head>
+
+  <body>
+    <div class="wrapper">
+      <!-- Header -->
+      <header>
+        <a class="Title" href="./location.html">Câmpina - House</a>
+
+        <h2 class="under-Title"><i>Monthly Expenses</i></h2>
+      </header>
+
+      <!-- Table -->
+      <table class="table-general">
+        <caption class="month-table">
+          January 2023
+        </caption>
+
+        <!-- Expences -->
+        <tr>
+          <th class="exp-cell" rowspan="4">Expenses per Service</th>
+
+          <!-- Gas -->
+          <td class="exp-item">Gas</td>
+          <td class="price">498,26 <br /><span class="currency"> RON</span></td>
+          <td class="side-icons">
+            <a href="No_Invoice.html">
+              &#128196;<span class="invoice-link">Invoice</span>
+            </a>
+          </td>
+        </tr>
+
+        <!-- Electricity -->
+        <tr>
+          <td class="exp-item">Electricity</td>
+          <td class="price">113,43<span class="currency"> RON</span></td>
+          <td class="side-icons">
+            <a href="./Invoices/01_ Jan'23/Elec-Jan'23.pdf" target="_blank">
+              &#128196;<span class="invoice-link">Invoice</span>
+            </a>
+          </td>
+        </tr>
+
+        <!-- Water -->
+        <tr>
+          <td class="exp-item">Water</td>
+          <td class="price">143,93<span class="currency"> RON</span></td>
+          <td class="side-icons">
+            <a href="./Invoices/01_ Jan'23/Water-Jan'23.pdf" target="_blank">
+              &#128196;<span class="invoice-link">Invoice</span>
+            </a>
+          </td>
+        </tr>
+
+        <!-- Internet -->
+        <tr>
+          <td class="exp-item">Internet</td>
+          <td class="price">65,00<span class="currency"> RON</span></td>
+          <td class="side-icons">
+            <a href="No_Invoice.html">
+              &#128196;<span class="invoice-link">Invoice</span>
+            </a>
+          </td>
+        </tr>
+
+        <!-- Table Devider -->
+        <tr>
+          <td class="devider_payed" colspan="4">
+            &#10050; &#10042; &#10042; &#10042; &#10050;
+          </td>
+        </tr>
+
+        <!-- Total Section -->
+        <tr>
+          <th class="ttl-cell" rowspan="2">Total</th>
+          <td class="expended">Expenses</td>
+          <td class="refunded">Refunded</td>
+          <td class="side-icons" rowspan="2">
+            <h3>&#9989;</h3>
+          </td>
+        </tr>
+        <tr>
+          <td class="ttl-price">820,60<span class="currency"> RON</span></td>
+          <td class="ttl-price">820,60<span class="currency"> RON</span></td>
+        </tr>
+      </table>
+
+      <!-- Footer -->
+      <footer class="footer">
+        <a class="home-link" href="./index.html">
+          <span class="Home_Icon">&#127968;</span><span class="home">Home</span>
+        </a>
+
+        <!-- Language Switcher -->
+        <a class="sub-text-lang" href="./ua-ua/Jan_23-ua.html"
+          >UA<img
+            class="lang-change"
+            src="./img/ua-32x32.png"
+            alt="Ukraine flag"
+            width="24"
+            height="12"
+        /></a>
+      </footer>
+
+      <!-- Page switch sound -->
+      <div>
+        <audio src="./sound/page.mp3" autoplay>Audio not supported</audio>
+      </div>
+    </div>
+  </body>
+</html>
