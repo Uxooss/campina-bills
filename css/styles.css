@@ -1,7 +1,7 @@
 /* Fonts Connected */
 body {
-  font-family: "Courier Prime", monospace;
-  font-family: "Montserrat", sans-serif;
+  font-family: 'Courier Prime', monospace;
+  font-family: 'Montserrat', sans-serif;
 
   /* Background */
   border: 8px ridge #cccccc;
@@ -37,7 +37,7 @@ header {
 }
 
 .Title {
-  font-family: "Montserrat", sans-serif;
+  font-family: 'Montserrat', sans-serif;
   padding: 4px 20px 4px;
   color: #eeff00;
   background-color: #000875;
@@ -50,7 +50,7 @@ header {
 
 .under-Title {
   margin: 0;
-  font-family: "Courier Prime", monospace;
+  font-family: 'Courier Prime', monospace;
   font-weight: 400;
   text-align: center;
 }
@@ -59,7 +59,7 @@ header {
   color: #4f006e;
   font-style: italic;
   font-weight: bold;
-  font-family: "Poiret One", cursive;
+  font-family: 'Poiret One', cursive;
   font-size: 28px;
   margin-bottom: auto;
   text-decoration: underline;
@@ -67,7 +67,7 @@ header {
 
 .month_list {
   margin-left: 40px;
-  font-family: "Poiret One", cursive;
+  font-family: 'Poiret One', cursive;
   font-size: 24px;
   list-style: circle;
   color: rgb(0, 0, 0);
@@ -76,7 +76,7 @@ header {
 
 /* Table */
 .month-table {
-  font-family: "Poiret One", cursive;
+  font-family: 'Poiret One', cursive;
   text-align: center;
   margin-bottom: 8px;
   margin-top: 8px;
@@ -123,7 +123,7 @@ header {
 .month-page {
   font-style: italic;
   font-weight: 700;
-  font-family: "Poiret One", cursive;
+  font-family: 'Poiret One', cursive;
   font-size: 22px;
   margin-bottom: auto;
   text-decoration: underline;
@@ -149,7 +149,7 @@ header {
 .price {
   border: 1px #4e4e4e;
   border-style: solid;
-  font-family: "Courier Prime", monospace;
+  font-family: 'Courier Prime', monospace;
   font-size: 18px;
   text-align: right;
   font-weight: bold;
@@ -161,7 +161,7 @@ header {
 .ttl-price {
   border: 1px #4e4e4e;
   border-style: solid;
-  font-family: "Courier Prime", monospace;
+  font-family: 'Courier Prime', monospace;
   font-size: 18px;
   text-align: right;
   font-weight: bold;
@@ -217,7 +217,7 @@ header {
 
 .invoice-link {
   color: #0205d1;
-  font-family: "Courier Prime", monospace;
+  font-family: 'Courier Prime', monospace;
   font-size: 14px;
   font-style: italic;
   text-decoration: none;
@@ -225,7 +225,7 @@ header {
 }
 
 .invoice-ico {
-  font-family: "Courier Prime", monospace;
+  font-family: 'Courier Prime', monospace;
   font-size: 20px;
   font-style: normal;
   text-decoration: none;
@@ -354,7 +354,7 @@ header {
 
 .home {
   color: #f0f8ff;
-  font-family: "Courier Prime", monospace;
+  font-family: 'Courier Prime', monospace;
   text-decoration: none;
   font-size: 14px;
   font-style: italic;
@@ -364,7 +364,7 @@ header {
 
 .home:hover {
   color: #eeff00;
-  font-family: "Courier Prime", monospace;
+  font-family: 'Courier Prime', monospace;
   text-decoration: underline;
   font-size: 14px;
   font-style: italic;
@@ -375,7 +375,7 @@ header {
 
 .charts_text {
   color: #f0f8ff;
-  font-family: "Courier Prime", monospace;
+  font-family: 'Courier Prime', monospace;
   text-decoration: none;
   font-size: 14px;
   font-style: italic;
@@ -383,7 +383,7 @@ header {
 
 .charts_text:hover {
   color: #eeff00;
-  font-family: "Courier Prime", monospace;
+  font-family: 'Courier Prime', monospace;
   text-decoration: none;
   font-size: 14px;
   text-decoration: underline;
@@ -392,7 +392,7 @@ header {
 }
 
 .charts {
-  font-family: "Courier Prime", monospace;
+  font-family: 'Courier Prime', monospace;
 }
 
 .Chart_Icon {
@@ -405,7 +405,7 @@ header {
 
 .garb_text {
   color: #f0f8ff;
-  font-family: "Courier Prime", monospace;
+  font-family: 'Courier Prime', monospace;
   text-decoration: none;
   font-size: 14px;
   font-style: italic;
@@ -413,7 +413,7 @@ header {
 
 .garb_text:hover {
   color: #fffb00;
-  font-family: "Courier Prime", monospace;
+  font-family: 'Courier Prime', monospace;
   text-decoration: none;
   font-size: 14px;
   text-decoration: underline;
@@ -424,7 +424,7 @@ header {
 /* Others */
 
 .oops2 {
-  font-family: "Courier Prime", monospace;
+  font-family: 'Courier Prime', monospace;
   font-size: 18px;
   font-style: italic;
   margin: auto;
@@ -432,7 +432,7 @@ header {
 }
 
 .oops_text-note-1 {
-  font-family: "Courier Prime", monospace;
+  font-family: 'Courier Prime', monospace;
   font-size: 16px;
   font-style: italic;
   font-weight: bold;
@@ -443,14 +443,14 @@ header {
 .oops_text-note-2 {
   display: flex;
   padding: 12px 0 0 20px;
-  font-family: "Poiret One", cursive;
+  font-family: 'Poiret One', cursive;
   font-size: 14px;
   font-weight: bold;
   text-align: center;
 }
 
 .oops {
-  font-family: "Courier Prime", monospace;
+  font-family: 'Courier Prime', monospace;
   font-size: 60px;
   margin: auto;
 }
@@ -469,7 +469,7 @@ header {
 }
 
 .campina-collection {
-  font-family: "Courier Prime", monospace;
+  font-family: 'Courier Prime', monospace;
   text-align: center;
   padding: 4px 10px 0;
   margin: 10px;
@@ -482,7 +482,7 @@ header {
 }
 
 .campina-collection:hover {
-  font-family: "Poiret One", cursive;
+  font-family: 'Poiret One', cursive;
   text-align: center;
   color: #0e00d6;
   background-color: #48ff0023;
@@ -551,7 +551,7 @@ header {
 }
 
 .garb-type-text {
-  font-family: "Courier Prime", monospace;
+  font-family: 'Courier Prime', monospace;
   margin: 4px;
   font-size: 10px;
   color: #000000;
@@ -700,7 +700,7 @@ header {
 }
 
 .date-item {
-  font-family: "Courier Prime", monospace;
+  font-family: 'Courier Prime', monospace;
   font-size: 48px;
   font-weight: bold;
   text-align: center;
@@ -708,7 +708,7 @@ header {
 }
 
 .month-item {
-  font-family: "Courier Prime", monospace;
+  font-family: 'Courier Prime', monospace;
   font-size: 20px;
   font-weight: bold;
   text-align: center;
@@ -731,7 +731,7 @@ header {
 }
 
 .date-item-completed {
-  font-family: "Courier Prime", monospace;
+  font-family: 'Courier Prime', monospace;
   font-size: 48px;
   font-weight: normal;
   text-align: center;
@@ -740,7 +740,7 @@ header {
 }
 
 .month-item-completed {
-  font-family: "Courier Prime", monospace;
+  font-family: 'Courier Prime', monospace;
   font-size: 20px;
   font-weight: bold;
   text-align: center;
